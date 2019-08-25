@@ -1,0 +1,22 @@
+{
+  "name": "projectone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Simbiryan/ProjectOne.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Simbiryan/ProjectOne/issues"
+  },
+  "homepage": "https://github.com/Simbiryan/ProjectOne#readme",
+  "devDependencies": {
+    "eslint": "^6.2.2"
+  }
+}
